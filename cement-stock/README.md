@@ -172,7 +172,7 @@ Detail：寫一程式分析今年以來如何投資操作台灣的水泥股票�
 
 投資報酬率：0.674641
 
-![%E6%B0%B4%E6%B3%A5%E8%82%A1%E6%8A%95%E8%B3%87%E5%88%86%E6%9E%90%2018340a3b41ab4efe8e0f0b619657fca0/Untitled.png](%E6%B0%B4%E6%B3%A5%E8%82%A1%E6%8A%95%E8%B3%87%E5%88%86%E6%9E%90%2018340a3b41ab4efe8e0f0b619657fca0/Untitled.png)
+![image](https://github.com/Yasmine-Cheng/stock-analysis/blob/main/cement-stock/CandlestickChart.png)
 
 # 參考網址
 
